@@ -13,9 +13,9 @@ public class App {
         
         p1.depositar(320);
         p2.depositar(931);
-
-        p1.sacar(35);
-        p2.sacar(100);
+        //opcional deixar comentado o saque no quesito comparacao para melhor analise.
+        //p1.sacar(35);
+        ///p2.sacar(100);
 
         p1.estadoAtual();
         p2.estadoAtual();
